@@ -1,0 +1,1 @@
+## An Android Application that can be used to upload images to Firebase.
