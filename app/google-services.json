@@ -1,42 +1,42 @@
 {
   "project_info": {
     "project_number": "955119519779",
-    "firebase_url": "https://image-upload-c9a9a.firebaseio.com",
+    "firebase_url": "Your Firebase URL",
     "project_id": "image-upload-c9a9a",
     "storage_bucket": "image-upload-c9a9a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:955119519779:android:84ad2698a644e067e2c996",
+        "mobilesdk_app_id": "Your mobilesdk_app_id",
         "android_client_info": {
           "package_name": "com.example.image_upload"
         }
       },
       "oauth_client": [
         {
-          "client_id": "955119519779-83qlvsbql28tr9rdbheu47rp88qni01g.apps.googleusercontent.com",
+          "client_id": "Your Client ID",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.image_upload",
-            "certificate_hash": "b8e3cab49d405e581d64d072eaa2983c32e25571"
+            "certificate_hash": "Your Certificate Hash"
           }
         },
         {
-          "client_id": "955119519779-mvj5iabbukftj3eb9a5r8ugdc1oae1hi.apps.googleusercontent.com",
+          "client_id": "Your Client ID",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBnq7xvuTWKfjc5GgQUJ2kWKWL1UQBz3xM"
+          "current_key": "Your API KEY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "955119519779-mvj5iabbukftj3eb9a5r8ugdc1oae1hi.apps.googleusercontent.com",
+              "client_id": "Your Client ID",
               "client_type": 3
             }
           ]
